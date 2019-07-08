@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>jour-mindmap</title>
+</head>
+<body>
+<outline text="jour project"><outline text="definition"><outline text="project activities time tracker"></outline>
+</outline>
+<outline text="jour"><outline text="dashboard reporting tool using react/d3"></outline>
+</outline>
+<outline text="jour-cli"><outline text="jour cli for time reporting as a react/ink/form or directly from cli params"></outline>
+</outline>
+</outline>
+</body>
+</opml>
